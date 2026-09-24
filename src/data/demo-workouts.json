@@ -1,0 +1,273 @@
+[
+  {
+    "id": "1",
+    "name": "Barbell Bench Press",
+    "categories": [
+      "Chest",
+      "Arms"
+    ],
+    "equipment": "Barbell, Bench",
+    "duration": 25,
+    "calories": 180,
+    "rating": 4.8,
+    "image": "/images/banner.png",
+    "description": "A compound press that builds chest thickness, triceps, and pressing power from a stable bench.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Lie on the bench with eyes under the bar and feet planted.",
+      "Unrack with locked elbows and lower the bar to mid-chest.",
+      "Press up in a slight arc until elbows lock without bouncing.",
+      "Keep shoulder blades pinched and a natural arch in the back."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Pull-up",
+    "categories": [
+      "Back",
+      "Arms"
+    ],
+    "equipment": "Pull-up Bar",
+    "duration": 15,
+    "calories": 120,
+    "rating": 4.7,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Back Squat",
+    "categories": [
+      "Legs",
+      "Core"
+    ],
+    "equipment": "Barbell, Rack",
+    "duration": 30,
+    "calories": 240,
+    "rating": 4.9,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Overhead Press",
+    "categories": [
+      "Shoulders",
+      "Arms"
+    ],
+    "equipment": "Barbell",
+    "duration": 20,
+    "calories": 150,
+    "rating": 4.6,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Dumbbell Bicep Curl",
+    "categories": [
+      "Arms"
+    ],
+    "equipment": "Dumbbells",
+    "duration": 12,
+    "calories": 80,
+    "rating": 4.3,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Triceps Extension",
+    "categories": [
+      "Arms"
+    ],
+    "equipment": "Dumbbell",
+    "duration": 12,
+    "calories": 80,
+    "rating": 4.3,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Hollow-body Plank",
+    "categories": [
+      "Core"
+    ],
+    "equipment": "Bodyweight",
+    "duration": 10,
+    "calories": 60,
+    "rating": 4.4,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Lateral Raise",
+    "categories": [
+      "Shoulders"
+    ],
+    "equipment": "Dumbbells",
+    "duration": 12,
+    "calories": 80,
+    "rating": 4.3,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Conventional Deadlift",
+    "categories": [
+      "Back",
+      "Legs"
+    ],
+    "equipment": "Barbell",
+    "duration": 28,
+    "calories": 260,
+    "rating": 4.9,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Push-up",
+    "categories": [
+      "Chest",
+      "Arms",
+      "Core"
+    ],
+    "equipment": "Bodyweight",
+    "duration": 10,
+    "calories": 90,
+    "rating": 4.5,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Walking Lunge",
+    "categories": [
+      "Legs"
+    ],
+    "equipment": "Dumbbells (optional)",
+    "duration": 18,
+    "calories": 170,
+    "rating": 4.4,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Russian Twist",
+    "categories": [
+      "Core"
+    ],
+    "equipment": "Medicine Ball",
+    "duration": 8,
+    "calories": 70,
+    "rating": 4.1,
+    "image": "/images/banner.png",
+    "description": "Demo workout record for testing the FitLog interface. Replace demo mode with the live API before submission.",
+    "difficulty": "Intermediate",
+    "sets": 4,
+    "reps": "6-8",
+    "instructions": [
+      "Demo step 1: prepare your workout space.",
+      "Demo step 2: review the exercise setup.",
+      "Demo step 3: log your planned sets.",
+      "Demo step 4: mark the workout done in My Plan."
+    ]
+  }
+]
