@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/workouts/[id]/route": "/api/workouts/[id]",
+  "/api/workouts/route": "/api/workouts",
+  "/my-plan/page": "/my-plan",
+  "/page": "/",
+  "/workouts/[id]/page": "/workouts/[id]"
+}
